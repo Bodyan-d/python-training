@@ -1,0 +1,8 @@
+
+Result: 127
+Result: 128
+Result: 2278
+Summ: 7
+Summ: 5
+Summ: 4
+Summ: 2345
